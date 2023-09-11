@@ -31,7 +31,7 @@
     // add with min value 
     rand = rand + min;
     return rand;
-	}
+  }
   
   // check url
   if (ee.length == 6 && ee[3] === "generics") {
